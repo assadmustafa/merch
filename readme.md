@@ -1,6 +1,6 @@
 # GET Merch Webshop 
 
- 
+ ![App Screenshot](preview.png)
 
 ## Inleiding 
 
