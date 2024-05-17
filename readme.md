@@ -33,9 +33,7 @@ Dit project maakt gebruik van WordPress en WooCommerce om de webshop te bouwen. 
 
 Dit project, de Gemini Embedded Technologie (GET) Webshop, is eigendom van Gemini Embedded Technologie. Het gebruik, de distributie en aanpassing van dit project is alleen toegestaan voor intern gebruik binnen Gemini Embedded Technologie. 
 
- 
+![App Screenshot](logo.png)
+
 
 © 2024 Gemini Embedded Technologie. Alle rechten voorbehouden.
-
-
-![App Screenshot](logo.png)
