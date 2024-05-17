@@ -35,5 +35,7 @@ Dit project, de Gemini Embedded Technologie (GET) Webshop, is eigendom van Gemin
 
  
 
-© 2024 Gemini Embedded Technologie. Alle rechten voorbehouden. 
-![App Screenshot](logo.png)
+© 2024 Gemini Embedded Technologie. Alle rechten voorbehouden.
+
+
+<center>![App Screenshot](logo.png)</center>
